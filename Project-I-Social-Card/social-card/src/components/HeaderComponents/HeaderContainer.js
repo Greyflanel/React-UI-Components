@@ -4,10 +4,10 @@ import ImageThumbnail from './ImageThumbnail';
 import HeaderContent from './HeaderContent';
 
 const HeaderContainer = () => {
-    return <div className="headerContainer">
+    return (<div className="headerContainer">
 <ImageThumbnail />
 <HeaderContent />
-    </div>;
+    </div>)
 }
 
 export default HeaderContainer;
