@@ -1,0 +1,17 @@
+.footers {
+    padding-left: 75px;
+    margin-top: 30px;
+}
+.fa-comment {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+.fa-sync {
+    margin-left: 50px;
+}
+.fa-heart {
+    margin-left: 50px;
+}
+.fa-envelope {
+    margin-left: 50px;
+}

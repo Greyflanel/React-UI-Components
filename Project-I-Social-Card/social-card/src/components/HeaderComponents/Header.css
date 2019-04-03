@@ -1,1 +1,38 @@
 /* All styles for your header Components live here */
+.headerContainer {
+    display: flex;  
+}
+
+.headerTitle {
+    display: flex;
+    margin-left: 20px;
+    height: 30px; 
+    
+}
+p {
+    margin-left: 20px;
+    margin-top: 0;
+    width: 91%;
+}
+.lambdaLogo {
+    width: 160px;
+    height: 40px;
+    background-color: white;
+    text-align: center;
+    padding-top: 9px;
+    border-radius: 90px;
+    border: 1px solid black;
+}
+a {
+    color: grey;
+    text-decoration: none;
+    margin: 0 10px;
+}
+.img1 {
+
+   height: 36px;
+}
+h4 {
+    margin-top: 0;
+    
+}
